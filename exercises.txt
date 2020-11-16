@@ -1,0 +1,6 @@
+Exercise 1:
+1. Write three block-level elements (Use <div> and <span> in index.html)
+2. Add borders to all the block-level elements (Hint: Use an element selector and the CSS-keyword 'border' in styles.scss)
+3. Add left-margin to all the inline elements (Hint: Use an element selector and 'margin-left' in styles.scss)
+4. Make the border red for a single block-level element (Hint: Use a class, ID or nth-child selector and the short-hand 'border: 1px solid red')
+5. Make the text red for a single inline element (Hint: Use a class, ID or nth-child selector and 'color: red' in styles.scss)

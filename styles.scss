@@ -1,0 +1,15 @@
+.block-level-elements div{
+  border: 1px solid black;
+}
+
+.block-level-elements div:nth-child(2){
+  border: 1px solid red;
+}
+
+.inline-elements span{ 
+  margin-left: 20px;
+}
+
+#first-span{
+  color: red;
+}
